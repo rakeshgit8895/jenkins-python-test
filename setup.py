@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 
 requirements = [
-	'scipy', 'numpy', 'scikit-learn', 'Click'
+	 'numpy'
 ]
 
 test_requirements=[
