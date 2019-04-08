@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 
 requirements = [
-	 'numpy'
+	 'numpy','scipy'
 ]
 
 test_requirements=[
